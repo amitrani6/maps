@@ -113,6 +113,7 @@ venv.bak/
 # Folders
 
 # Files
+map_access.command
 
 # Spyder project settings
 .spyderproject
